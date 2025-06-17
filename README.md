@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=민동익%20(Douglas)&fontSize=45&fontColor=ffffff&fontAlign=30&fontAlignY=25&desc=Developer%20%7C%20Problem%20Solver&descSize=18&descAlign=30&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=민동익%20(Douglas)&fontSize=45&fontColor=000000&fontAlign=50&fontAlignY=25&desc=Developer%20%7C%20Problem%20Solver&descSize=18&descAlign=50&descAlignY=45)
