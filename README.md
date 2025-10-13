@@ -19,10 +19,12 @@
 ```typescript
 const douglasMin = {
     location: "Seoul, South Korea 🇰🇷",
-    currentFocus: "Building scalable web applications",
-    learning: ["System Design", "Cloud Architecture", "AI/ML Integration"],
-    hobbies: ["Open Source", "Tech Blogging", "Problem Solving"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    role: "Full Stack Engineer 💻",
+    passions: ["Cloud Enthusiast ☁️", "Gen AI (Not Gen Z 😄)"],
+    currentFocus: "Building intelligent cloud-native applications",
+    learning: ["System Design", "Cloud Architecture", "LLM Integration"],
+    hobbies: ["Open Source", "Tech Blogging", "Prompt Engineering"],
+    funFact: "I turn caffeine into serverless functions ☕→⚡"
 };
 ```
 
