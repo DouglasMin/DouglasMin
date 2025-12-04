@@ -6,7 +6,7 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDouglasMin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/DouglasMin)
+![](https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/DouglasMin?label=Followers&style=social)](https://github.com/DouglasMin?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/DouglasMin?label=Total%20Stars&style=social)](https://github.com/DouglasMin)
 
@@ -66,22 +66,20 @@ const douglasMin = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasMin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasMin&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" alt="Douglas Min github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMin&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasMin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasMin&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="DouglasMin's streak"/>
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasMin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasMin&custom_title=Douglas%20Min's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&title_color=58a6ff&area=true&hide_border=true" alt="contribution graph">
 </div>
 
 ---
@@ -89,9 +87,7 @@ const douglasMin = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=DouglasMin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=DouglasMin&theme=algolia&no-frame=true&no-bg=false&row=1&column=7" alt="trophy" />
 </div>
 
 ---
@@ -120,7 +116,7 @@ const douglasMin = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -130,8 +126,7 @@ const douglasMin = {
 
 ### 🎵 Currently Vibing To
 
-<!-- Spotify ID를 본인의 Spotify User ID로 교체하세요 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vyq4jko6gnz2or5hsuveoxa6oq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify.com/user/31vyq4jko6gnz2or5hsuveoxa6oq)
 
 </div>
 
@@ -141,9 +136,12 @@ const douglasMin = {
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
