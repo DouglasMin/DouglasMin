@@ -6,9 +6,9 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDouglasMin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/DouglasMin?label=Followers&style=social)](https://github.com/DouglasMin?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/DouglasMin?affiliations=OWNER&style=social)](https://github.com/DouglasMin)
+![GitHub User's stars](https://img.shields.io/github/stars/DouglasMin?affiliations=OWNER&style=social)
 
 </div>
 
@@ -38,8 +38,8 @@ const douglasMin = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -73,49 +73,27 @@ const douglasMin = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📅 GitHub Contribution Calendar
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasMin&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Douglas Min github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasMin&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasMin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&area_color=1f6feb)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasMin&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
-</div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![Douglas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasMin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Douglas%20Min's%20Contribution%20Graph)](https://github.com/DouglasMin)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=DouglasMin&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=DouglasMin&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
-
-## 🔥 Solved.ac Profile
-
-<!-- 백준 아이디가 있으면 아래 주석을 해제하고 YOUR_BAEKJOON_ID를 본인의 백준 아이디로 교체하세요 -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID)](https://solved.ac/YOUR_BAEKJOON_ID) -->
+<br>
 
 <div align="center">
 
-백준 프로필을 추가하려면 위 주석을 해제하고 YOUR_BAEKJOON_ID를 본인의 백준 아이디로 교체하세요!
+![](https://github-readme-stats.vercel.app/api?username=DouglasMin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
 </div>
 
@@ -129,7 +107,7 @@ const douglasMin = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DouglasMin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas0703@daum.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://douglasmin.dev)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@douglasmin)
+[![Blog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@douglasmin)
 
 </div>
 
