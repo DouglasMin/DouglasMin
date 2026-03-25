@@ -1,32 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=민동익%20·%20Douglas%20Min&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Code%20Craftsman&descAlignY=55&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=console.log('Hello%2C+World!'+%F0%9F%91%8B);Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95%EF%B8%8F%E2%9E%A1%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/DouglasMin)
-[![GitHub followers](https://img.shields.io/github/followers/DouglasMin?label=Followers&style=flat-square&color=2ea043)](https://github.com/DouglasMin?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/DouglasMin?affiliations=OWNER&style=flat-square&color=e3b341)](https://github.com/DouglasMin)
+# `> douglas_min`<br><sup>민동익 · Full-Stack Developer</sup>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=8b949e&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=%24+whoami+%E2%86%92+builder+of+cloud-native+apps;%24+cat+interests.txt+%E2%86%92+GenAI+%7C+Cloud+%7C+DX;%24+uptime+%E2%86%92+fueled+by+caffeine+since+day+1" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/DouglasMin"><img src="https://img.shields.io/badge/Seoul%2C_KR-based-0d1117?style=flat&labelColor=161b22&color=58a6ff"/></a>
+<a href="https://github.com/DouglasMin?tab=followers"><img src="https://img.shields.io/github/followers/DouglasMin?label=followers&style=flat&labelColor=161b22&color=2ea043"/></a>
+<img src="https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=flat&label=views"/>
 
 </div>
 
----
+<br> 
 
-### 👨‍💻 About Me
+<table align="center">
+<tr><td>
 
 ```typescript
-const douglasMin = {
-  location: "Seoul, South Korea 🇰🇷",
-  role: "Full Stack Engineer 💻",
-  passions: ["Cloud Enthusiast ☁️", "Gen AI (Not Gen Z 😄)"],
-  currentFocus: "Building intelligent cloud-native applications",
+const douglas = {
+  stack: ["React", "Next.js", "Node.js", "Python", "AWS"],
+  focus: "Intelligent cloud-native applications",
   learning: ["System Design", "Cloud Architecture", "LLM Integration"],
-  hobbies: ["Open Source", "Tech Blogging", "Prompt Engineering"],
-  funFact: "I turn caffeine into serverless functions ☕→⚡"
+  ask_me: "GenAI, Full-Stack, Cloud Infra",
+  fun: "I turn caffeine into serverless functions ☕ → ⚡",
 };
 ```
+
+</td></tr>
+</table>
 
 ---
 
