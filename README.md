@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=&fontSize=0" width="100%"/>
-
-<br>
-
-# `> douglas_min`<br><sup>민동익 · Full-Stack Developer</sup>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=8b949e&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=%24+whoami+%E2%86%92+builder+of+cloud-native+apps;%24+cat+interests.txt+%E2%86%92+GenAI+%7C+Cloud+%7C+DX;%24+uptime+%E2%86%92+fueled+by+caffeine+since+day+1" alt="Typing SVG" />
+<!-- Retro Terminal Hero - auto-updated via GitHub Actions -->
+<img src="./output.gif" alt="Douglas Min's GitHub Terminal" width="800"/>
 
 <br>
 
@@ -16,24 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=DouglasMin&color=58a6ff&style=flat&label=views"/>
 
 </div>
-
-<br> 
-
-<table align="center">
-<tr><td>
-
-```typescript
-const douglas = {
-  stack: ["React", "Next.js", "Node.js", "Python", "AWS"],
-  focus: "Intelligent cloud-native applications",
-  learning: ["System Design", "Cloud Architecture", "LLM Integration"],
-  ask_me: "GenAI, Full-Stack, Cloud Infra",
-  fun: "I turn caffeine into serverless functions ☕ → ⚡",
-};
-```
-
-</td></tr>
-</table>
 
 ---
 
